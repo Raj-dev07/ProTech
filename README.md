@@ -61,6 +61,8 @@ JavaScript
 
 AOS (Animate On Scroll)
 
+LENIS
+
 Font Awesome
 
 LocalStorage API
